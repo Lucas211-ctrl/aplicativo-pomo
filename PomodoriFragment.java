@@ -51,7 +51,7 @@ public class PomodoriFragment extends Fragment {
                 @Override
                 public void onClick(View view) {
                     try {
-                        Thread.sleep(5000);
+                        Thread.sleep(1500000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
@@ -65,7 +65,7 @@ public class PomodoriFragment extends Fragment {
                 @Override
                 public void onClick(View view) {
                     try {
-                        Thread.sleep(5000);
+                        Thread.sleep(300000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
@@ -79,7 +79,7 @@ public class PomodoriFragment extends Fragment {
                 @Override
                 public void onClick(View view) {
                     try {
-                        Thread.sleep(5000);
+                        Thread.sleep(900000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="botaodescanso">@mipmap/botaodescanso_round</drawable>
+    <drawable name="botaodesca">@mipmap/botaodesca_round</drawable>
+    <drawable name="pomcon">@mipmap/concluido_foreground</drawable>
+    <drawable name="descansa">@mipmap/concluidodesc_foreground</drawable>
+    <drawable name="concdescansa">@mipmap/concmaisdesc_foreground</drawable>
+    <drawable name="news">@mipmap/news</drawable>
+    <drawable name="newss">@mipmap/news_foreground</drawable>
+    <drawable name="newsss">@mipmap/newss_foreground</drawable>
+    <drawable name="newsimg">@mipmap/newsimg_foreground</drawable>
+</resources>
